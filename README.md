@@ -1,0 +1,2 @@
+# Nicebeam
+Beam III Nicehash
